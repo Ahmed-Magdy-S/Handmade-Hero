@@ -1,0 +1,20 @@
+#Day1
+- Difference between CALLBACK and __clrcall in WinMain function.
+- Difference between import WinMain from winbase.h or windows.h (Caesy used this).
+- check if you can include a build tool like cMake
+- learn about MessageBox function
+- any packages or assets will be put into data directory
+@echo off
+mkdir ../../build
+pushd ../../build
+cl ../handmade/code/main.cpp
+popd
+=============================================
+#Day2
+- revision of typedef and struct
+- What is GetMessage function.
+_ Handling scenario of messages
+==============================================
+#Day3
+- Graphics windows api
+- min44
